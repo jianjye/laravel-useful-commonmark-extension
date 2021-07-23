@@ -1,5 +1,5 @@
 {
-    "name": "johnnyhuy/laravel-useful-commonmark-extension",
+    "name": "jianjye/laravel-useful-commonmark-extension",
     "type": "library",
     "description": "Laravel useful CommonMark extension for Laravel 5, 6 & 7",
     "keywords": ["youtube", "php", "laravel", "markdown", "commonmark", "phpleague", "laravel-package"],
